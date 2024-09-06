@@ -1,0 +1,168 @@
+body{
+    background-color: rgba(242, 187, 114, 0.389);
+}
+.titulo{
+    margin-top: -220px;
+    background-color: rgba(32, 171, 53, 0.948);
+    text-shadow: 5px 6px 7px black;
+}
+.qn{
+    position: absolute;
+    margin-top: -140px;
+    left: 68px;
+}
+.subtitulo1{
+    display: flex;
+    position: absolute;
+    margin-right: 40px;
+    left: 75px;
+    right: 120;
+}
+.parrafo1{
+    display: flex;
+    margin-right: 80px;
+    left: 60px;
+    right: 600px;
+    margin-top: -8px;
+    line-height: 25px;
+}
+.img01{
+    display: flex;
+    width: 350px;
+    height: 350px;
+    margin-top: 20px;
+    border: 18px solid rgb(110, 59, 29);
+}
+
+.info{
+    position: absolute;
+    left: 68px;
+    margin-top: 445px;
+}
+.integrantes{
+    position: absolute;
+    left: 60px;
+    margin-top: 560px;
+    line-height: 25px;
+}
+.album{
+    position: absolute;
+    left: 68px;
+    margin-top: 690px;
+}
+.intimagen{
+    display: flex;
+}
+.infodis{
+    position: absolute;
+    left: 120px;
+    margin-top: 780px;
+}
+.details{
+    position: absolute;
+    left: 140px;
+    margin-top: 843px;
+}
+
+.canciones{
+    position: absolute;
+    left: 120px;
+    margin-top: 985px;
+}
+.img02{
+    display: flex;
+    position: absolute;
+    left: 530px;
+    width: 750px;
+    height: 650px;
+    margin-top: -750px;
+    border: 20px solid ;
+}
+.discografia{
+    position: absolute;
+    left: 95px;
+    right: 95px;
+    margin-top: 1325px;
+}
+.premios{
+    position: absolute;
+    left: 95px;
+    right: 300px;
+    margin-top: 1980px;
+}
+
+.registro{
+    position: absolute;
+    left: 95px;
+    right: 95px;
+    margin-top: 2300px;
+}
+.redes_sociales{
+    position: absolute;
+    left: 600px;
+    margin-top: 2370px;
+}
+.facebook{
+    position: absolute;
+    left: 560px;
+    margin-top: 2440px;
+}
+.instagram{
+    position: absolute;
+    left: 760px;
+    margin-top: 2440px;
+}
+.youtube{
+    position: absolute;
+    left: 938px;
+    margin-top: 2465px;
+}
+
+.copyright{
+    position: absolute;
+    left: 1338px;
+    margin-top: 2510px;
+}
+
+.cact2{
+    position: absolute;
+    margin-top: 800px;
+    opacity: 0.17;
+    
+}
+.tx{
+    position: absolute;
+    left: 290px;
+    margin: -130px;
+    opacity: 0.30;
+}
+.disco{
+    position:absolute;
+    margin-top: 1500px;
+    opacity: 0.1;
+    left: 480px;
+}
+.premio{
+    display: flex;
+    position: absolute;
+    left: 1200px;
+    margin-top: 2090px;
+}
+.spoty{
+    position: absolute;
+    margin-top: -445px;
+    left: 92px;
+    border: 12px solid black;
+}
+.pesado{
+    position: absolute;
+    margin-top: -393px;
+    left: 1150px;
+}
+.logo{
+    border-radius: 500px;
+    position: absolute;
+    left: -10px;
+    margin-top: 50px;
+   
+}

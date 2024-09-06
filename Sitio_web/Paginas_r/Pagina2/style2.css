@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(177, 113, 49, 0.559);
+}
+.bienvenida{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.registro_completo{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.cat{
+    position: absolute;
+    left: 630px;
+
+}
